@@ -2,7 +2,9 @@
 Projeto feito a partir de módulo da OneBitCode para aprender sobre MongoDB e EJS
 
 ## Sobre o Projeto
- Projeto feito para praticar Javascript Vanilla com aplicação de funções e lógica de programação, baseado em Exercício do Livro "Lógica de Programação e Algoritmos com Javascript" da editora Novatec.
+ Projeto feito com aulas do curso OneBitCode fullstack Javascript. ensinando conceitos de NodeJS, Express, EJS, MongoDB e utilização do Postman.
+ 
+ Utilização de rotas para fazer requisições de GET, POST, PUT, DELETE. Páginas dinâmicas e controle de requisições com postman e aplicação em banco de dados.
  
  ## Layout 
  
